@@ -17,4 +17,4 @@ To run DocumentGPT locally, ensure you have Python 3.7+ installed. Clone the rep
 ```bash
 git clone https://github.com/yourusername/DocumentGPT.git
 cd DocumentGPT
-pip install -r requirements.txt
+pip install -r requirements.txt 
